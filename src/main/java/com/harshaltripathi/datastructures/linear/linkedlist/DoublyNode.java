@@ -1,6 +1,6 @@
 package com.harshaltripathi.datastructures.linear.linkedlist;
 
-public class DoublyNode<T> implements NodeI {
+public class DoublyNode<T> implements NodeI<T> {
 
 	public T data;
 	public DoublyNode<T> next;

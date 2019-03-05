@@ -2,7 +2,6 @@ package com.harshaltripathi.datastructures.linear.linkedlist;
 
 public class CircularLinkedList implements LinkedListI<Integer> {
 
-	int data;
 	Node<Integer> head;
 
 	@Override
